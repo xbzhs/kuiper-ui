@@ -1,5 +1,5 @@
 # kuiper-ui
-
+[![Build Status](https://travis-ci.org/xbzhs/kuiper-ui.svg?branch=master)](https://travis-ci.org/xbzhs/kuiper-ui)
 ## Project setup
 ```
 npm install
