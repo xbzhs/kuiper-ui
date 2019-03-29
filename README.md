@@ -1,6 +1,5 @@
 # kuiper-ui
-[![Build Status](https://travis-ci.org/xbzhs/kuiper-ui.svg?branch=master)](https://travis-ci.org/xbzhs/kuiper-ui)
-[![Coverage Status](https://coveralls.io/repos/github/xbzhs/kuiper-ui/badge.svg?branch=master)](https://coveralls.io/github/xbzhs/kuiper-ui?branch=master)
+
 ## Project setup
 ```
 npm install
@@ -24,6 +23,16 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Run your end-to-end tests
+```
+npm run test:e2e
+```
+
+### Run your unit tests
+```
+npm run test:unit
 ```
 
 ### Customize configuration
