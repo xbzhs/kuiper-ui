@@ -1,5 +1,5 @@
 # kuiper-ui
-
+[![Coverage Status](https://coveralls.io/repos/github/xbzhs/kuiper-ui/badge.svg?branch=master)](https://coveralls.io/github/xbzhs/kuiper-ui?branch=master)
 ## Project setup
 ```
 npm install
